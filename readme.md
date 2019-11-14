@@ -61,3 +61,7 @@ http://docs.rstudio.com/shiny-server/
 ## Resources
 ### Docker-Compose documentation
 https://docs.docker.com/compose/reference/overview/
+
+##########
+runApp("C:/IDEP/shinyapps/idep90")
+
