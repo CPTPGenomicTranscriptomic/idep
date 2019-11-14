@@ -19,6 +19,7 @@ Local installation of this software is possible through steps below. But it is n
 [geneInfo](https://sdsu.box.com/shared/static/mns0k1uvwtfnsohoc89b984ih36nmnz9.gz), 
 [data_go](https://sdsu.box.com/shared/static/qwpdh36vcisgy1hcmadck8i8ezhvr2fh.gz), 
 [convertIDs](https://sdsu.box.com/shared/static/sorewt7w6iypmhg2k2xhyi8myeit156o.gz)
+https://raw.githubusercontent.com/iDEP-SDSU/idep/master/shinyapps/idep/STRING10_species.csv
 5. Start Rstudio and load the ui.R and server.R script. And then click on Run app. 
 
 ## To install iDEP as a server, follow the following instructions:
